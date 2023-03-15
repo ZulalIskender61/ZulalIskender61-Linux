@@ -1,12 +1,5 @@
 #!/bin/bash
-#AD-SOYAD: ZÜLAL İSKENDER
-#NUMARA: 180707088
-#BÖLÜM: BİLGİSAYAR MÜHENDİSLİĞİ
-#DERSİN ADI: KABUK PROGRAMLAMA
-#DERSİN KODU: MBM1-351
-#DERSİN VERİLDİĞİ AKADEMİL DÖNEM: 2022-2023 GÜZ DÖNEMİ
-#PROJENİN NUMARASI: 1
-#DERSİ VEREN ÖĞRETİM GÖREVLİSİNİN ADI: DENİZ DAL
+#AD SOYAD: ZÜLAL İSKENDER
 #-------------------------------------------------------------
 
 indeks="$(expr index "$1" ".") " #uzantıyı belli ede nokta işaretinin kaçıncı indekste bulunduğunu bulmak için indeks değişkenine indeksi bulan işlemin çıkardığı değeri atadım.
