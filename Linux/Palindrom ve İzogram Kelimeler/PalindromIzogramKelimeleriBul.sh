@@ -1,12 +1,5 @@
 #!/bin/bash
-#AD-SOYAD: ZÜLAL İSKENDER
-#NUMARA: 180707088
-#BÖLÜM: BİLGİSAYAR MÜHENDİSLİĞİ
-#DERSİN ADI: KABUK PROGRAMLAMA
-#DERSİN KODU: MBM1-351
-#DERSİN VERİLDİĞİ AKADEMİL DÖNEM: 2022-2023 GÜZ DÖNEMİ
-#PROJENİN NUMARASI: 2
-#DERSİ VEREN ÖĞRETİM GÖREVLİSİNİN ADI: DENİZ DAL
+#AD SOYAD: ZÜLAL İSKENDER
 #-------------------------------------------------------------
 
 palindromlariBul()
